@@ -1,1 +1,0 @@
-# for_eod_static
